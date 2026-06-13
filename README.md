@@ -38,6 +38,12 @@ Best Model: Logistic Regression with 74.79% accuracy
 Feature engineering improved accuracy from 54% to 74% — a 20% jump!
 Better data beats better model.
 
+## 📊 Dataset
+Raw IPL dataset (IPL.csv) is not included in this repo due to file size.
+Download it from Kaggle: https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020
+Place it in the data/ folder before running the notebooks.
+Note: To run app.py directly, dataset is not needed — processed data and trained model are already included.
+
 ## ⚙️ How to Run
 
 1. Clone the repository
